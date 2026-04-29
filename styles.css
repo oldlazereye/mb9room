@@ -1,5 +1,6 @@
 .button{
-    background-color: crimson;
+    background-color: maroon;
+    border-color: darkgray;
 }
 
 .body{
@@ -8,5 +9,5 @@
 }
 
 .title{
-    color:crimson;
+    color:maroon;
 }
