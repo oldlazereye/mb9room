@@ -27,3 +27,8 @@
   background-color: #3333;
   color: #220707;
 }
+
+
+.myTable { background-color:#302c2c;border-collapse:collapse; }
+.myTable th { background-color:#141212;color:whitesmoke}
+.myTable td, .myTable th { padding:5px;border:1px solid #252525; }
