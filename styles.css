@@ -13,33 +13,17 @@
 }
 
 .custom-table {
-  border-collapse: collapse;
-  width: 100%;
+
   background-color: gray; /* table background */
-  color: white; /* text color */
+  color: whites; /* text color */
 }
 
 .custom-table th {
-  background-color: dimgray; /* header background */
-  color: white;
-  padding: 10px;
+  background-color: #3333;
+  color: whitesmoke;
 }
 
-.custom-table td {
-  padding: 10px;
-  border: 1px solid #444; /* cell borders */
-}
-
-/* alternating row colors */
-.custom-table tr:nth-child(even) {
-  background-color: #2a2a40;
-}
-
-.custom-table tr:nth-child(odd) {
-  background-color: #24243a;
-}
-
-/* hover effect */
-.custom-table tr:hover {
-  background-color: #3a3a5a;
+.custom-table tr {
+  background-color: #3333;
+  color: #220707;
 }
